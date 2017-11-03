@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Tests nodejs",
+  "main": "notifications.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanphibaconnais/test.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Jean-Phi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanphibaconnais/test/issues"
+  },
+  "homepage": "https://github.com/jeanphibaconnais/test#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "node-notifier": "^5.1.2"
+  }
+}
