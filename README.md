@@ -2,3 +2,4 @@
 
 - java 
 - nodejs
+- vuejs
