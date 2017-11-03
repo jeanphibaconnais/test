@@ -1,1 +1,4 @@
-# Tests divers sur du nodejs.
+# Tests divers sur différentes technos :
+
+- java 
+- nodejs
