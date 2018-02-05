@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app2">
     <p>App 2 - Structure en composant de l'app de todo list</p>
     <todo></todo>
 
@@ -11,7 +11,7 @@
 import Todo from './2/Todo';
 
 export default {
-  name: 'app',
+  name: 'app2',
   components : { Todo }
 }
 </script>

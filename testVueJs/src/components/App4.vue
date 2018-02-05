@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app4">
     <p>App 4 - Structure en composant de l'app de todo list avec communication enfant => parent</p>
     
     <todo v-bind:message="message" @addElement="addElementMessage"></todo>
@@ -16,7 +16,7 @@
 import Todo from './4/Todo';
 
 export default {
-  name: 'app',
+  name: 'app4',
   components : { Todo },
   data: function () {
     return { 
