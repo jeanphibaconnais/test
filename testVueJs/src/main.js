@@ -4,7 +4,7 @@ import App3 from './components/App3';
 import App4 from './components/App4';
 
 var app = new Vue({
-	el: '#app3',
-	template: '<app3/>',
+	el: '#app4',
+	template: '<app4/>',
 	components: { App2, App3, App4 }
 });
