@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Todo</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.13/vue.min.js"></script>
+</head>
+<body>
+    <div id="app">
+ 
+    <form v-on:submit.prevent="addTask(newTask)">
+        <p><input v-model="newTask"> <button>Ajouter</button></p>
+    </form>
+ 
+    <ul>
+        <li v-for="task in tasks">{{task}}</li>
+    </ul>
+ 
+</div>
+ 
+<script type="text/javascript">
+app = new Vue({
+  el: "#app", 
+  data: {
+    tasks: [], 
+    newTask: "", 
+  },
+  methods: {
+    addTask: function(task){
+      this.tasks.push(task); 
+      this.newTask = ""; 
+    }
+  }
+})
+</script>
+ 
+</body>
+</html>
