@@ -17,13 +17,15 @@ const books = [
 
 // The GraphQL schema in string form
 const typeDefs = `
-  type Query { books: [Book] }
+  type Query { getBooks: [Book] }
   type Book { title: String, author: String }
 `;
 
 // The resolvers
 const resolvers = {
-  Query: { books: () => books },
+  Query: { 
+    getBooks: () => books 
+  },
 };
 
 // Mutations
