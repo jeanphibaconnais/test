@@ -1,0 +1,14 @@
+type Query {
+    minisites: [Minisite!]!
+    minisite(id: ID!): Minisite
+}
+
+type Mutation {
+    post(idMinisite: String!, raisonSociale: String!): Minisite!
+}
+
+type Minisite {
+    id: ID!
+    idMinisite: String!
+    raisonSociale: String!
+}

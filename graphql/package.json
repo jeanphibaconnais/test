@@ -1,0 +1,17 @@
+{
+	"name": "graphQL",
+	"version": "1.0.0",
+	"description": "Test de GraphQL",
+	"author": "HiP",
+	"private": true,
+	"scripts": {
+		"dev": "node index.js",
+		"start": "npm run dev"
+	},
+	"dependencies": {
+		"graphql-yoga": "^1.7.1",
+		"mongodb": "^3.0.5",
+		"mongoose": "^5.0.12",
+		"rsvp": "^4.8.2"
+	}
+}
