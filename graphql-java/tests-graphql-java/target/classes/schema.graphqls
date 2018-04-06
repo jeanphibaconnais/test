@@ -1,0 +1,13 @@
+type Minisite {
+    id: String!
+    idMinisite: String
+    statutMinisite : String
+}
+
+type Query {
+    allMinisites : [Minisite]
+}
+
+schema {
+    query: Query
+}

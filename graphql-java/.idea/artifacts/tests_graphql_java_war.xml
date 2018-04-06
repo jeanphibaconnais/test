@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tests-graphql-java:war">
+    <output-path>$PROJECT_DIR$/tests-graphql-java/target</output-path>
+    <root id="archive" name="tests-graphql-java.war">
+      <element id="artifact" artifact-name="tests-graphql-java:war exploded" />
+    </root>
+  </artifact>
+</component>
