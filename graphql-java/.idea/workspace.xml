@@ -12,73 +12,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GraphQLEndpoint.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GraphQLEndpoint.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/GraphQLEndpoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1426#1427#0" expanded="true" />
-                <element signature="e#1453#1454#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <state relative-caret-position="221">
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinisiteES.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/es/MinisiteES.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schema.graphqls" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/resources/schema.graphqls">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Query.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/Query.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManagerPersistance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/persistance/ManagerPersistance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests-graphql-java/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -110,7 +62,6 @@
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/tests-graphql-java/pom.xml" />
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/Link.java" />
-        <option value="$PROJECT_DIR$/tests-graphql-java/README.md" />
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/LinkRepository.java" />
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/Minisite.java" />
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/ManagerPersistance.java" />
@@ -121,8 +72,9 @@
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/Query.java" />
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/persistance/ManagerPersistance.java" />
         <option value="$PROJECT_DIR$/tests-graphql-java/src/main/resources/schema.graphqls" />
-        <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/GraphQLEndpoint.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tests-graphql-java/README.md" />
+        <option value="$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/GraphQLEndpoint.java" />
       </list>
     </option>
   </component>
@@ -179,6 +131,38 @@
               <item name="graphql-java" type="462c0819:PsiDirectoryNode" />
               <item name="tests-graphql-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graphql-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests-graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graphql-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests-graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graphql-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests-graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graphql-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests-graphql-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,12 +320,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522995591108</updated>
       <workItem from="1522995593097" duration="2066000" />
-      <workItem from="1522997810672" duration="10371000" />
+      <workItem from="1522997810672" duration="11282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12437000" />
+    <option name="totallyTimeSpent" value="13348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-128" width="1696" height="1066" extended-state="6" />
@@ -417,11 +401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1453#1454#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -430,8 +410,8 @@
         <state relative-caret-position="238">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -466,17 +446,6 @@
         <state relative-caret-position="340">
           <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests-graphql-java/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -525,9 +494,9 @@
         <state relative-caret-position="527">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#342#343#0" expanded="false" />
+            <element signature="e#383#384#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -537,8 +506,8 @@
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -551,22 +520,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/GraphQLEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1453#1454#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/tests-graphql-java/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests-graphql-java/src/main/java/graphql/GraphQLEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="221">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding />
         </state>
       </provider>
