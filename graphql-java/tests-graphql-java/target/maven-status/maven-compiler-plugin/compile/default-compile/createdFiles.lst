@@ -1,4 +1,5 @@
 graphql\es\MinisiteES.class
+graphql\mapper\MiniSiteMappeur.class
 graphql\persistance\ManagerPersistance.class
 graphql\GraphQLEndpoint.class
 graphql\Query.class

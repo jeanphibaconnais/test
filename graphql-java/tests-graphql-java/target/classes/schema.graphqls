@@ -6,6 +6,7 @@ type Minisite {
 
 type Query {
     allMinisites : [Minisite]
+    getMinisite(id: String!) : Minisite
 }
 
 schema {

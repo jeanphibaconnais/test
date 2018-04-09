@@ -20,8 +20,21 @@ public class GraphQLEndpoint extends SimpleGraphQLServlet {
 	static {
 		//Change to `new MongoClient("mongodb://<host>:<port>/hackernews")`
 		//if you don't have Mongo running locally on port 27017
-		MongoDatabase mongo = new MongoClient().getDatabase("tests-graphql");
-		
+		//MongoDatabase mongo = new MongoClient().getDatabase("tests-graphql");
+		//MongoDatabase mongo = new MongoClient(new MongoClientURI("mongodb://da016-base-r0dm10m.sii24.pole-emploi.intra:18310")).getDatabase("dm10mcda016");
+
+		List<MongoCredential> credentials = new ArrayList<MongoCredential>();
+		credentials.add(
+				MongoCredential.createScramSha1Credential(
+						"rdm10mcda016",
+						"dm10mcda016",
+						"mDqp9Hv32121JVB".toCharArray()
+				)
+		);
+
+		MongoClient mongoClient = new MongoClient(new ServerAddress("da016-base-r0dm10m.sii24.pole-emploi.intra", 18310), credentials);
+
+		MongoDatabase mongo = mongoClient.getDatabase("dm10mcda016");
 
 		managerPersistance = new ManagerPersistance(mongo.getCollection("MiniSite"));
 	}

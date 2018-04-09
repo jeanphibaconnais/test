@@ -17,4 +17,8 @@ class Query implements GraphQLRootResolver {
 	public List<MinisiteES> allMinisites() {
 		return manager.getAllMinisite();
 	}
+
+	public MinisiteES getMinisite(final String id) {
+		return manager.lireMinisite(id);
+	}
 }
