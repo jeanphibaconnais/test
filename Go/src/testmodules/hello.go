@@ -1,4 +1,4 @@
-package testmodules
+package main
 
 import (
 	"fmt"
@@ -6,13 +6,25 @@ import (
 )
 
 func main() {
-
+	Test()
 }
 
 func Test() {
 	c := cron.New()
-	c.AddFunc("0 0 10 * * *", func() {
-		fmt.Println("Every ten secondes")
+	c.AddFunc("@every 1s", func() {
+		fmt.Println("Every each second")
 	})
+	c.Start()
 
+	inspect(c.Entries())
+
+	var Test string
+	fmt.Scan(&Test)
+
+}
+func inspect(entries []*cron.Entry) {
+
+	for _, entry := range entries {
+		entry.Job.Run();
+	}
 }
