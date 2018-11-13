@@ -1,15 +1,26 @@
 package java8;
 
+import exemples.Personne;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.function.BiFunction;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-import exemples.Personne;
-
 public class Lambda {
+
+	// Functional Interfaces :
+
+	// Un Predicate prend un argument et retourne un booléen.
+	// Un Consumer prend un argument mais ne retourne pas de résultat.
+	// Les Comparator sont devenus des FunctionalInterface.
+	// 		Comparator<Integer> ascending = (a, b) -> a.compareTo(b);
+	// Un Supplier ne prend pas d’argument et produit un résultat.
+	// BiFunction : prend deux arguments et retourne un résultat.
+	// 		BiFunction<Integer, String, String> concat = (Integer i, String s) -> s + ": " + i;
 
 	public static void main(String[] args) {
 
@@ -18,6 +29,8 @@ public class Lambda {
 		testerThrad();
 
 		testPredicate();
+
+		testBiFunction();
 	}
 
 	private static void testerThrad() {
@@ -52,7 +65,7 @@ public class Lambda {
 		Predicate<Personne> plusJeuneQue = (personne) -> {
 			return personne.getAge() < 20;
 		};
-		
+
 		Consumer<Personne> afficherPersonne = (personne) -> {
 			personne.print();
 		};
@@ -68,5 +81,12 @@ public class Lambda {
 	        	consumer.accept(p);
 	        }
 	    }
+	}
+
+	public static void testBiFunction() {
+		System.out.println("\n=================== testBiFunction ");
+		BiFunction<Integer, String, String> concat = (Integer i, String s) -> s + ": " + i;
+
+		System.out.println(concat.apply(10, "20"));
 	}
 }
