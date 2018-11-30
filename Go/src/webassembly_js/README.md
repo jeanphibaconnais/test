@@ -1,6 +1,8 @@
 ### Go 1.1 : Web assembly
 
 This file allows to test web assembly integration with go.
+This example allows to display one element in console, to add contain in a html div and show js alert.
+
 
 ##### Documentation
 
