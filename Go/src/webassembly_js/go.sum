@@ -1,0 +1,4 @@
+github.com/shurcooL/go v0.0.0-20181114040627-58262d155ee0 h1:jJsTG5tkoPggUXDVSTEbH61c6eLO65Cw9IPessIPeYI=
+github.com/shurcooL/go v0.0.0-20181114040627-58262d155ee0/go.mod h1:TDJrrUr11Vxrven61rcy3hJMUqaf/CLWYhHNPmT14Lk=
+github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041 h1:llrF3Fs4018ePo4+G/HV/uQUqEI1HMDjCeOf2V6puPc=
+github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041/go.mod h1:N5mDOmsrJOB+vfqUK+7DmDyjhSLIIBnXo9lvZJj3MWQ=
