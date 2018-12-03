@@ -3,5 +3,5 @@
 - java 
 - nodejs
 - vuejs
-- Go
+- Go & Go 1.11
 - Graph QL
