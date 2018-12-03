@@ -1,2 +1,6 @@
 pkg
+<<<<<<< HEAD
 workspace.xml
+=======
+.idea/
+>>>>>>> 48693c33056e551f49cdda6ff4d3b56892ed9994

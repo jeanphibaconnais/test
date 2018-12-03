@@ -21,7 +21,8 @@ let minisites = [
 ];
 let idCount = minisites.length;
 
-var db = new Db('test', new Server('127.0.0.1', 27017));
+// var db = new Db('test', new Server('127.0.0.1', 27017));
+var db = new Db('minisi')
 console.log('db connected ? ' + db._state);
 
 if (db._state == 'connected') {
