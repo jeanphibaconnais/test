@@ -13,6 +13,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="hello.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/testmodules2/hello.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,10 +58,22 @@
             <state relative-caret-position="0">
               <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
               <folding />
+=======
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webassembly_js/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="102" lean-forward="false" selection-start-line="3" selection-start-column="102" selection-end-line="3" selection-end-column="102" />
+                <folding />
+              </first_editor>
+              <second_editor />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="go.sum" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/testmodules2/go.sum">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,6 +87,19 @@
               <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
               <folding />
+=======
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/webassembly/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+                <folding>
+                  <marker date="1543597019000" expanded="true" signature="27:128" ph="This file allows to te...ords " />
+                </folding>
+              </first_editor>
+              <second_editor />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
             </state>
           </provider>
         </entry>
@@ -102,11 +128,19 @@
         <option value="$PROJECT_DIR$/.gitignore" />
 =======
         <option value="$PROJECT_DIR$/src/webassembly/index.html" />
-        <option value="$PROJECT_DIR$/src/webassembly/wasm_exec.html" />
-        <option value="$PROJECT_DIR$/src/webassembly/README.md" />
         <option value="$PROJECT_DIR$/src/webassembly/go.mod" />
         <option value="$PROJECT_DIR$/src/webassembly/simplepage.go" />
+<<<<<<< HEAD
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+        <option value="$PROJECT_DIR$/src/webassembly/simplepage_wasm.go" />
+        <option value="$PROJECT_DIR$/src/webassembly/wasm_exec.html" />
+        <option value="$PROJECT_DIR$/src/webassembly_js/go.mod" />
+        <option value="$PROJECT_DIR$/src/webassembly_js/wasm_exec.html" />
+        <option value="$PROJECT_DIR$/src/webassembly_js/simplepage_wasm.go" />
+        <option value="$PROJECT_DIR$/src/webassembly_js/README.md" />
+        <option value="$PROJECT_DIR$/src/webassembly/README.md" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
       </list>
     </option>
   </component>
@@ -145,10 +179,13 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scope" />
 =======
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
       <pane id="AndroidView" />
+=======
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +202,7 @@
               <item name="Go" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
 <<<<<<< HEAD
               <item name="testGouni" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -189,12 +227,15 @@
             </path>
 =======
               <item name="testmodules2" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="webassembly" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
             </path>
             <path>
               <item name="Go" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="webassembly" type="462c0819:PsiDirectoryNode" />
+              <item name="webassembly_js" type="462c0819:PsiDirectoryNode" />
             </path>
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
           </expand>
@@ -204,10 +245,16 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="PackagesPane" />
       <pane id="Scope" />
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,6 +267,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../goappengine" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -368,12 +420,18 @@
       <workItem from="1541595232078" duration="2344000" />
       <workItem from="1542735446755" duration="3916000" />
       <workItem from="1543168371703" duration="2446000" />
+<<<<<<< HEAD
       <workItem from="1543438149816" duration="1025000" />
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+      <workItem from="1543438149816" duration="1229000" />
+      <workItem from="1543559510710" duration="11320000" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="12957000" />
   </component>
@@ -386,6 +444,13 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+    <option name="totallyTimeSpent" value="23144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -396,15 +461,19 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16870415" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23626943" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3626943" sideWeight="0.4953125" order="11" side_tool="false" content_ui="tabs" />
 =======
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43969464" sideWeight="0.4953125" order="11" side_tool="false" content_ui="tabs" />
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37709925" sideWeight="0.4953125" order="11" side_tool="false" content_ui="tabs" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20048505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20371868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -495,7 +564,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webassembly/simplepage.go">
+    <entry file="file://$PROJECT_DIR$/src/webassembly/simplepage_wasm.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly/simplepage_wasm.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
@@ -717,33 +802,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webassembly/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="92" lean-forward="false" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/webassembly/wasm_exec.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/webassembly/go.sum" />
     <entry file="file://$PROJECT_DIR$/src/webassembly/go.mod">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
->>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly/simplepage_wasm.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly/wasm_exec.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+>>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+        <state relative-caret-position="225">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -755,7 +845,69 @@
         <state relative-caret-position="60">
           <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
 >>>>>>> 65c80da1d150b29cb9a5de910f81163ed9ea791c
+=======
+    <entry file="file://$PROJECT_DIR$/src/webassembly_js/go.sum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly_js/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly_js/main.wasm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5211">
+          <caret line="4" column="476" lean-forward="true" selection-start-line="4" selection-start-column="476" selection-end-line="4" selection-end-column="476" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly_js/wasm_exec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+>>>>>>> 620ba9cec44d2daff0b8192a50f477b71b5af5c6
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly_js/simplepage_wasm.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly_js/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="102" lean-forward="false" selection-start-line="3" selection-start-column="102" selection-end-line="3" selection-end-column="102" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webassembly/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+            <folding>
+              <marker date="1543597019000" expanded="true" signature="27:128" ph="This file allows to te...ords " />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

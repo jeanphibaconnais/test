@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5f753d2-a896-414d-b14d-8df2738dedba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/bin/goexec" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/bin/js_wasm/main" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/go.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/main.wasm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/simplepage.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/wasm_exec.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/wasm_exec.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/go.sum" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly/simplepage_wasm.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/go.mod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/go.sum" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/simplepage_wasm.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/wasm_exec.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Go/src/webassembly_js/wasm_exec.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Go/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Go/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/java8/.classpath" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/java8/.gitignore" afterPath="$PROJECT_DIR$/java8/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/java8/.project" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/java8/java8.iml" afterPath="$PROJECT_DIR$/java8/java8.iml" />
-      <change beforePath="$PROJECT_DIR$/java8/pom.xml" afterPath="$PROJECT_DIR$/java8/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8/Lambda.java" afterPath="$PROJECT_DIR$/java8/src/main/java/java8/Lambda.java" />
+      <change beforePath="$PROJECT_DIR$/Go/bin/js_wasm/main" afterPath="$PROJECT_DIR$/Go/bin/js_wasm/main" />
+      <change beforePath="$PROJECT_DIR$/Go/src/webassembly/README.md" afterPath="$PROJECT_DIR$/Go/src/webassembly/README.md" />
+      <change beforePath="$PROJECT_DIR$/Go/src/webassembly/go.mod" afterPath="$PROJECT_DIR$/Go/src/webassembly/go.mod" />
+      <change beforePath="$PROJECT_DIR$/Go/src/webassembly/main.wasm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Go/src/webassembly/simplepage.go" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +27,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Lambda.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java8/src/main/java/java8/Lambda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +115,41 @@
               <item name="tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +163,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java8" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -276,15 +320,16 @@
       <workItem from="1536585994068" duration="778000" />
       <workItem from="1540379628003" duration="285000" />
       <workItem from="1540996873438" duration="224000" />
-      <workItem from="1543838571734" duration="220000" />
+      <workItem from="1543838571734" duration="722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14635000" />
+    <option name="totallyTimeSpent" value="15137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-87" width="1696" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -296,7 +341,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21069519" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.371123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23154762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -364,6 +409,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -562,8 +608,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java8/src/main/java/java8/Lambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
