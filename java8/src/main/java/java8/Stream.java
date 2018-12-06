@@ -36,12 +36,12 @@ public class Stream {
 		personnes.add(new Personne("P3", 30));
 
 		String nom = personnes.stream().filter(personne -> personne.getAge() > 20).findFirst().map(Personne::getNom)
-				.orElse("Aucun résultat");
+				.orElse("Aucun resultat");
 
 		System.out.println("Test + de 20 ans : " + nom);
 		
 		nom = personnes.stream().filter(personne -> personne.getAge() > 30).findFirst().map(Personne::getNom)
-				.orElse("Aucun résultat");
+				.orElse("Aucun resultat");
 
 		System.out.println("Test + de 30 ans : " + nom);
 	}
