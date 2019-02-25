@@ -47,24 +47,13 @@ public class Stream {
 		personnes.add(new Personne("P3", 30));
 
 		String nom = personnes.stream().filter(personne -> personne.getAge() > 20).findFirst().map(Personne::getNom)
-<<<<<<< HEAD
-				.orElse("Aucun r�sultat");
-=======
 				.orElse("Aucun resultat");
->>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
 
 		System.out.println("Test + de 20 ans : " + nom);
 		
 		nom = personnes.stream().filter(personne -> personne.getAge() > 30).findFirst().map(Personne::getNom)
-<<<<<<< HEAD
-				.orElse("Aucun r�sultat");
-=======
 				.orElse("Aucun resultat");
->>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
 
 		System.out.println("Test + de 30 ans : " + nom);
-
-
 	}
-
 }

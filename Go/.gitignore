@@ -2,3 +2,4 @@ pkg
 workspace.xml
 .idea/
 bin/
+pkg/

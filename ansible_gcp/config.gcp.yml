@@ -1,0 +1,6 @@
+plugin: gcp_compute
+projects:
+  - google.com:graphite-playground
+filters:
+auth_kind: serviceaccount
+service_account_file: /Users/JeanPhi/Documents/Developpement/clean-sunspot-231107-ff81655ebd2d.json
