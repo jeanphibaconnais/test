@@ -1,6 +1,7 @@
 package java8;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.OptionalDouble;
 
@@ -13,6 +14,16 @@ public class Stream {
 		testAverageList();
 
 		testFindOne();
+
+		testComparable();
+	}
+
+	private static void testComparable() {
+		Comparator <Personne> olderThan = Comparator.comparing(Personne::getAge);
+
+		System.out.println("Comparator test 19 vs 21 : " + olderThan.compare(new Personne("P1", 19), new Personne("P1", 21)));
+		System.out.println("Comparator test 21 vs 21 : " + olderThan.compare(new Personne("P1", 21), new Personne("P1", 21)));
+		System.out.println("Comparator test 39 vs 21 : " + olderThan.compare(new Personne("P1", 39), new Personne("P1", 21)));
 	}
 
 	public static void testAverageList() {
@@ -36,14 +47,24 @@ public class Stream {
 		personnes.add(new Personne("P3", 30));
 
 		String nom = personnes.stream().filter(personne -> personne.getAge() > 20).findFirst().map(Personne::getNom)
+<<<<<<< HEAD
 				.orElse("Aucun r�sultat");
+=======
+				.orElse("Aucun resultat");
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
 
 		System.out.println("Test + de 20 ans : " + nom);
 		
 		nom = personnes.stream().filter(personne -> personne.getAge() > 30).findFirst().map(Personne::getNom)
+<<<<<<< HEAD
 				.orElse("Aucun r�sultat");
+=======
+				.orElse("Aucun resultat");
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
 
 		System.out.println("Test + de 30 ans : " + nom);
+
+
 	}
 
 }

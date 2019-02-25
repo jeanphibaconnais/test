@@ -2,5 +2,7 @@ github.com/shurcooL/go v0.0.0-20181114040627-58262d155ee0 h1:jJsTG5tkoPggUXDVSTE
 github.com/shurcooL/go v0.0.0-20181114040627-58262d155ee0/go.mod h1:TDJrrUr11Vxrven61rcy3hJMUqaf/CLWYhHNPmT14Lk=
 github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041 h1:llrF3Fs4018ePo4+G/HV/uQUqEI1HMDjCeOf2V6puPc=
 github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041/go.mod h1:N5mDOmsrJOB+vfqUK+7DmDyjhSLIIBnXo9lvZJj3MWQ=
+github.com/shurcooL/goexec v0.0.0-20181022054255-67b40f7358c4 h1:816Y2d2QWcx+BQzmMFyKeGVzVeW8cIxNRFKJg1lDb0A=
+github.com/shurcooL/goexec v0.0.0-20181022054255-67b40f7358c4/go.mod h1:0V15Gv9ZhqL5nNfb4X8CdLvnZv82NX7TkclWeAbwNrg=
 github.com/siongui/godom v0.0.0-20181006133514-8ba1cdb25192 h1:+H5lXLoRFOu/K/q8focJ8syTYjqEOaGwVJE6MpyKFPA=
 github.com/siongui/godom v0.0.0-20181006133514-8ba1cdb25192/go.mod h1:HlsL4IlMbIFM7fVEzc61bwE3Or1cNJzKZMDkO2xO9gA=
