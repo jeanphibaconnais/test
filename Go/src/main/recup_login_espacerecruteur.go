@@ -57,13 +57,7 @@ func callDs008ForIndividuPro(idIP string) string {
 
 	req, err := http.NewRequest("GET", URL_DS008_PROD + "/v1/employeurs/comptes/" + idIP, nil)
 
-	req.Header.Add("pe-id-correlation","1-9809809")
-	req.Header.Add("pe-id-utilisateur","ijba1660")
-	req.Header.Add("pe-nom-domaine","DS008")
-	req.Header.Add("pe-id-environnement","ENV_PO002")
-	req.Header.Add("Accept","application/json")
-	req.Header.Add("Content-Type","application/json")
-
+	// TODOS : headers 
 	response, err := client.Do(req)
 
 	if err != nil {
