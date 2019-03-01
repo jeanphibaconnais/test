@@ -11,6 +11,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -26,6 +43,7 @@
       <find>Supplier</find>
       <find>Bifuncti</find>
     </findStrings>
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -37,6 +55,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/SendMail.java" />
         <option value="$PROJECT_DIR$/java8.iml" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/README.md" />
+=======
         <option value="$PROJECT_DIR$/src/main/java/java8/Lambda.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/Personne.java" />
@@ -46,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/main/java/tests/FirstJunitTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/DateJSR310.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/Stream.java" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       </list>
     </option>
   </component>
@@ -181,6 +203,8 @@
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
@@ -215,6 +239,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
           </expand>
           <select />
         </subPane>
@@ -233,10 +258,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+=======
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -258,14 +287,22 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
+      <option name="MAIN_CLASS_NAME" value="java8.Stream" />
+=======
       <option name="MAIN_CLASS_NAME" value="java8.Lambda" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -277,7 +314,11 @@
       <module name="java8" />
       <envs />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="TestInterfaceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="java8.*" />
@@ -537,6 +578,16 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+<<<<<<< HEAD
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestInterfaceImpl" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Stream" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Stream" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestInterfaceImpl" />
+=======
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Maven.Java 8 - clean install" />
       <item index="1" class="java.lang.String" itemvalue="Application.Lambda" />
@@ -552,6 +603,7 @@
         <item index="2" class="java.lang.String" itemvalue="JUnit.FirstJunitTest.add" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.FirstJunitTest.testOne" />
         <item index="4" class="java.lang.String" itemvalue="Application.TestStream" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       </list>
     </recent_temporary>
   </component>
@@ -569,9 +621,17 @@
       <option name="presentableId" value="Default" />
       <updated>1540379912312</updated>
       <workItem from="1540379915895" duration="980000" />
+<<<<<<< HEAD
+      <workItem from="1543839309037" duration="2518000" />
+=======
       <workItem from="1543839309037" duration="84000" />
       <workItem from="1543868987092" duration="17205000" />
+<<<<<<< HEAD
+      <workItem from="1544166861455" duration="2459000" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
+=======
       <workItem from="1544166861455" duration="3545000" />
+>>>>>>> 6ec20e2e3ca6a37645058d5c8339ec365215397c
     </task>
     <servers />
   </component>
@@ -590,7 +650,15 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="3498000" />
+=======
+    <option name="totallyTimeSpent" value="20728000" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
+=======
     <option name="totallyTimeSpent" value="21814000" />
+>>>>>>> 6ec20e2e3ca6a37645058d5c8339ec365215397c
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="739" extended-state="0" />
@@ -615,6 +683,21 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34353742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32834226" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23696145" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17573696" sideWeight="0.49755502" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34353742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -726,6 +809,8 @@
     <entry file="file://$PROJECT_DIR$/.classpath" />
     <entry file="file://$PROJECT_DIR$/src/main/java/SendMail.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
+<<<<<<< HEAD
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -783,6 +868,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xml.xml" />
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -827,7 +913,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/impl/TestImplement1.java">
+=======
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/Stream.java">
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
@@ -835,14 +925,27 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/TestInterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+=======
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/Lambda.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="87" column="33" lean-forward="false" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+=======
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/FirstJunitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -867,7 +970,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/impl/TestImplement2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -880,7 +1011,11 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
+<<<<<<< HEAD
+                <option value="0.2" />
+=======
                 <option value="0.3494253" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
               </list>
             </option>
           </splitter-proportions>
@@ -892,7 +1027,11 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
+<<<<<<< HEAD
+                <option value="0.2" />
+=======
                 <option value="0.3494253" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
               </list>
             </option>
           </splitter-proportions>
@@ -913,6 +1052,24 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
+<<<<<<< HEAD
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+=======
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -929,6 +1086,7 @@
             <option name="proportions">
               <list>
                 <option value="0.3494253" />
+>>>>>>> 2a7594620e4003e04a9f48912921798321af91c4
                 <option value="0.6" />
               </list>
             </option>

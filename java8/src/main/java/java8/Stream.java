@@ -55,8 +55,5 @@ public class Stream {
 				.orElse("Aucun resultat");
 
 		System.out.println("Test + de 30 ans : " + nom);
-
-
 	}
-
 }
