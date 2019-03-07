@@ -7,7 +7,7 @@ export default class HelloWorld extends Component {
         this.state = {
             online: true,
             counter: 0,
-            term: null,
+            term: 'coucou',
             items: []
         };
     }
@@ -15,9 +15,13 @@ export default class HelloWorld extends Component {
     callbackclick() {
         console.log('erreur ...');
     }
+    
+    handleChange(event) {
+        
+    }
 
     onSubmit = (event) => {
-        event.eventPreventDefault(); // permet de bloquer le fonctionnement normal du formulaire
+        //event.eventPreventDefault(); // permet de bloquer le fonctionnement normal du formulaire
         this.setState({
             term: '',
             items: [ ...this.state.items, this.state.term ]
@@ -26,26 +30,25 @@ export default class HelloWorld extends Component {
 
     render() {
         const user = this.props.user;
+        let classNameSpan = 'span';
+
         return (
             <div>
                 <p>
                     {' '}
-                    Hello {user}, you are {!this.state.online || 'online'} !{' '}
+                    Component with props : hello {user}, you are {!this.state.online || 'online'} !{' '}
                 </p>
-                <p>{this.state.counter}</p>
-                <button
-                    onClick={() => {
-                        this.setState({ counter: this.state.counter + 1 });
-                    }}
-                >
-                    increment counter
+                <span className={classNameSpan}>{this.state.counter}</span>
+                
+                <button onClick={() => { this.setState({ counter: this.state.counter + 1 }); }}>Increment this one
                 </button>
 
                 <form onSubmit={this.onSubmit}>
-                    <input value={this.state.term} onChange={this.onChange} />
+                    <input value={this.state.term} onChange={this.handleChange} />
+                    <input type="submit" value="Ajouter" />
                 </form>
 
-                <ListTerms items={this.props.items} />
+                <ListTerms items={this.state.items} />
             </div>
         );
     }

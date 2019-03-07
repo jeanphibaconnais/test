@@ -1,17 +1,16 @@
 import React, { useState, useEffect } from 'react';
 
-function TestHook() {
+export function TestHook() {
     const [ count, setCount ] = useState(0);
 
     // Similar to componentDidMount and componentDidUpdate:
     useEffect(() => {
-        // Update the document title using the browser API
         document.title = `You clicked ${count} times`;
     });
 
     return (
         <div>
-            <p>You clicked {count} times</p>
+            <span>Test hook : you clicked {count} times</span>
             <button onClick={() => setCount(count + 1)}>Click me</button>
         </div>
     );

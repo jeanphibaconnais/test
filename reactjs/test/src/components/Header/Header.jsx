@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => (
   <div className='header'>
-    <h2>Realtime Chat App</h2>
+    <h2>Header : simple const component</h2>
   </div>
 );
 
