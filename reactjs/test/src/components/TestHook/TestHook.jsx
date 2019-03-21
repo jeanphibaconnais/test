@@ -10,7 +10,8 @@ export function TestHook() {
 
     return (
         <div>
-            <span>Test hook : you clicked {count} times</span>
+            <h3>Test hook function</h3>
+            <span>You clicked {count} times</span>
             <button onClick={() => setCount(count + 1)}>Click me</button>
         </div>
     );

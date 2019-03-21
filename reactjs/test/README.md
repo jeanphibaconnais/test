@@ -2,6 +2,7 @@
 
 
 #### Pages m'ayant aidé à appréhender Reactjs
+- https://fr.reactjs.org/docs/components-and-props.html
 
 - https://blogs.infinitesquare.com/posts/web/premiers-pas-avec-react-js-partie-2
 
@@ -12,6 +13,9 @@ Schéma du cycle de vie : https://infiniteblogs.blob.core.windows.net/medias/ccf
 - https://blog.ippon.fr/2016/04/19/comment-bien-debuter-en-reactjs/
 
 - https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664831-reagissez-aux-evenements
+
+- https://www.baptiste-donaux.fr/react-redux-concept/
+
 
 ### Création de composant 
 en classes
