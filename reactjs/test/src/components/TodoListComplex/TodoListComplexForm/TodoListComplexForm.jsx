@@ -11,6 +11,7 @@ class TodoListComplexForm extends Component {
 
     addTodo = () => {
         this.props.addTodoParent(this.state.currentElement);
+        this.setState({currentElement: ''});
     }
    
     handleChange = (event) => {

@@ -8,9 +8,9 @@ const TodoListComplexItems = (props) => {
         <ul>
             {items.map((value) => {
                 return <li>{value}</li>
-            })}
+            })} 
         </ul>
     );
 
 }
-export default TodoListComplexItems;
+export default (TodoListComplexItems);

@@ -17,6 +17,7 @@ Schéma du cycle de vie : https://infiniteblogs.blob.core.windows.net/medias/ccf
 
 - https://www.baptiste-donaux.fr/react-redux-concept/
 
+- https://daveceddia.com/how-does-redux-work/
 
 ### Création de composant 
 en classes
@@ -39,8 +40,6 @@ ComponentDidUpdate : peut permettre de mettre à jour les nouvelles props envoye
 
 ComponentWillUnmount : permet de nettoyer les éléments avant la suppression du composant.
 
-### Routing
-TODO 
 
 ### Hooks : nouveauté majeure React avec la v16.8
 https://reactjs.org/docs/hooks-intro.html

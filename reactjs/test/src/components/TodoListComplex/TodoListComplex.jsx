@@ -7,11 +7,9 @@ class TodoListComplex extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            newItem : '',
             items : []
         };
     }
-    const element = <h1>Bonjour, monde !</h1>;
     addTodo = (newTodo) => {
         this.state.items.push(newTodo);
         this.setState({items: this.state.items});

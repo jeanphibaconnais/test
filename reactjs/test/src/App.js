@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import './custom.css';
 import HelloWorld from './components/HelloWorld/HelloWorld';
@@ -9,17 +8,13 @@ import TodoList from './components/TodoList/TodoList';
 import TodoListComplex from './components/TodoListComplex/TodoListComplex';
 
 // Redux
-import { createStore, combineReducers } from 'redux';
-import { reducer as formReducer } from 'redux-form';
-import reducer from './components/reducer';
+import { createStore } from 'redux';
+import reducer from './components/CounterRedux/redux/reducer';
 import { Provider } from 'react-redux';
+import CounterRedux from './components/CounterRedux/CounterRedux';
 
-const reducers = {
-    reducer,
-    form: formReducer,
-  }
-const reduc = combineReducers(reducers);
-const store = createStore(reduc);
+// function combineReducer allows to have multiple reducers.
+const store = createStore(reducer);
 
 class App extends Component {
     render() {
@@ -36,8 +31,9 @@ class App extends Component {
                         <TodoList></TodoList>
 
                         <TodoListComplex></TodoListComplex>
-                    </header>
 
+                        <CounterRedux></CounterRedux>
+                    </header>
                 </div>
             </Provider>
         );
