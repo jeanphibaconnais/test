@@ -1,0 +1,1 @@
+package fr.pe.nantastiques.dashboard;import javax.ws.rs.GET;import javax.ws.rs.Path;import javax.ws.rs.Produces;import javax.ws.rs.core.MediaType;import fr.pe.nantastiques.config.Config;@Path("/supervision")public class Supervision {	@GET	@Produces(MediaType.TEXT_PLAIN)	public String getVersion() {		return Config.VERSION;	}}
